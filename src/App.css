@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: radial-gradient(circle at top, #1a1a2e, #16213e);
+  color: white;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  background: #e94560;
+  color: white;
+  cursor: pointer;
+}
+
+.contador {
+  font-size: 40px;
+}
+
+.roleta {
+  font-size: 30px;
+}
+
+.primeiro {
+  color: gold;
+  font-weight: bold;
+}
